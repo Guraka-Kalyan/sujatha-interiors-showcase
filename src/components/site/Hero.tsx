@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { ArrowRight, Sparkles } from "lucide-react";
-{/* REPLACE: Hero background image */}
+// REPLACE: Hero background image
 import heroImg from "@/assets/hero-interior.jpg";
 
 export function Hero() {

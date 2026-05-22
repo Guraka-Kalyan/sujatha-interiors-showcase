@@ -1,11 +1,11 @@
 import { useReveal } from "@/hooks/use-reveal";
-{/* REPLACE: Portfolio image 1 - Modular Kitchen */}
+// REPLACE: Portfolio image 1 - Modular Kitchen
 import kitchen from "@/assets/project-kitchen.png";
-{/* REPLACE: Portfolio image 2 - Grey Wardrobe */}
+// REPLACE: Portfolio image 2 - Grey Wardrobe
 import wardrobeGrey from "@/assets/project-wardrobe-grey.png";
-{/* REPLACE: Portfolio image 3 - Wooden Wardrobe */}
+// REPLACE: Portfolio image 3 - Wooden Wardrobe
 import wardrobeWood from "@/assets/project-wardrobe-wood.png";
-{/* REPLACE: Portfolio image 4 - Living Room */}
+// REPLACE: Portfolio image 4 - Living Room
 import livingRoom from "@/assets/project-living-room.png";
 
 const projects = [
